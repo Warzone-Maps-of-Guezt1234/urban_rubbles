@@ -1,5 +1,5 @@
 # urban_rubbles
-A small map of the worthless rubbles. Each game generally takes 5 - 10 minutes.
+A small map of the worthless rubble. Each game generally takes 5 - 10 minutes.
 
 ## The .svg file
 - The title of an object in the .svg file is the name of the object in warzone's editor. For example, name of a territory is the title of the object in the territory layer of the .svg. The name of the bonus links are also in the title.
