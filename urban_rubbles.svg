@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="500"
+   viewBox="0 0 400 500"
+   version="1.1"
+   id="svg219"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="urban_rubbles.svg">
+  <defs
+     id="defs213" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-31.16797"
+     inkscape:cy="347.26502"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="px"
+     showguides="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="840"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     scale-x="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid221"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="10"
+       spacingy="10"
+       empspacing="10"
+       color="#3f3fff"
+       opacity="0.1254902" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata216">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Edges"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-17.62497)"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 360,97.62497 v -70 H 240 v 20"
+       id="path1564"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 360,117.62497 v 140"
+       id="path1566"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 360,277.62497 v 140"
+       id="path1568"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40,437.62497 v 70 h 120 v -20"
+       id="path1576"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40,417.62497 v -140"
+       id="path1626"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40,257.62497 v -140"
+       id="path1628"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 120,87.62497 v -20 h 20"
+       id="path1324"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 120,127.62497 v 20 h 20"
+       id="path1326"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 180,67.62497 h 40 m -40,40 h 40"
+       id="path1328"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 180,147.62497 h 40"
+       id="path1330"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260,67.62497 h 20 v 20"
+       id="path1332"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 280,127.62497 v 20 h -20"
+       id="path1334"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 120,247.62497 v -20 h 20"
+       id="path1324-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 120,287.62497 v 20 h 20"
+       id="path1326-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 180,227.62497 h 40 m -40,40 h 40"
+       id="path1328-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 180,307.62497 h 40"
+       id="path1330-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260,227.62497 h 20 v 20"
+       id="path1332-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 280,287.62497 v 20 h -20"
+       id="path1334-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 120,407.62497 v -20 h 20"
+       id="path1324-2-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 120,447.62497 v 20 h 20"
+       id="path1326-3-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 180,387.62497 h 40 m -40,40 h 40"
+       id="path1328-7-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 180,467.62497 h 40"
+       id="path1330-5-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260,387.62497 h 20 v 20"
+       id="path1332-9-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 280,447.62497 v 20 h -20"
+       id="path1334-2-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 340,427.62497 H 300"
+       id="path1572"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 340,267.62497 H 300"
+       id="path1574"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 60,107.62497 h 40"
+       id="path1632"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 60,267.62497 h 40"
+       id="path1634"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 160,167.62497 v 20 h 80 v 20"
+       id="path1636"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 160,327.62497 v 20 h 80 v 20"
+       id="path1638"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Territories"
+     style="display:inline">
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 220.5,87.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_11"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1738">Tiles 2</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 220.5,127.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_12"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1750">Drywall Waste 2</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 220.5,167.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_13"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1762">Concrete Debris 2</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 260.5,127.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_14"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1730">Rebars 2</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 179.5,87.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_8"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1736">Tiles 1</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 179.5,127.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_9"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1748">Drywall Waste 1</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 179.5,167.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_10"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1760">Concrete Debris 1</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 139.5,127.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_7"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1724">Rebars 1</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 220.5,247.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_19"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1742">Tiles 4</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 220.5,287.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_20"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1754">Drywall Waste 4</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 220.5,327.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_21"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1766">Concrete Debris 4</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 260.5,287.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_22"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1732">Rebars 4</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 179.5,247.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_16"
+       inkscape:connector-curvature="0"
+       inkscape:label="#rect406-1-1">
+      <title
+         id="title1740">Tiles 3</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 179.5,287.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_17"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1752">Drywall Waste 3</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 179.5,327.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_18"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1764">Concrete Debris 3</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 139.5,287.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_15"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1726">Rebars 3</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 220.5,407.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_27"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1746">Tiles 6</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 220.5,447.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_28"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1758">Drywall Waste 6</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 220.5,487.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_29"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1770">Concrete Debris 6</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 260.5,447.125 c 13,0 26,0 39,0 0,-13 0,-26 0,-39 -13,0 -26,0 -39,0 0,13 0,26 0,39 z"
+       id="Territory_30"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1734">Rebars 6</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 179.5,407.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_24"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1744">Tiles 5</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 179.5,447.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_25"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1756">Drywall Waste 5</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 179.5,487.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_26"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1768">Concrete Debris 5</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       d="m 139.5,447.125 c -13,0 -26,0 -39,0 0,-13 0,-26 0,-39 13,0 26,0 39,0 0,13 0,26 0,39 z"
+       id="Territory_23"
+       inkscape:connector-curvature="0">
+      <title
+         id="title1728">Rebars 5</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       sodipodi:type="star"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="Territory_6"
+       sodipodi:sides="6"
+       sodipodi:cx="360.00021"
+       sodipodi:cy="427.62497"
+       sodipodi:r1="19.9998"
+       sodipodi:r2="17.320333"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 380.00001,427.62497 -9.9999,17.32033 h -19.9998 l -9.9999,-17.32033 9.9999,-17.32034 h 19.9998 z"
+       inkscape:label="#path285-7-0">
+      <title
+         id="title1623-3">Base 6</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       sodipodi:type="star"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="Territory_4"
+       sodipodi:sides="6"
+       sodipodi:cx="359.99979"
+       sodipodi:cy="267.62497"
+       sodipodi:r1="19.9998"
+       sodipodi:r2="17.320333"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 379.99959,267.62497 -9.9999,17.32033 h -19.9998 l -9.9999,-17.32033 9.9999,-17.32034 h 19.9998 z"
+       inkscape:label="#path285-7-0">
+      <title
+         id="title1623-3-6">Base 4</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       sodipodi:type="star"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="Territory_2"
+       sodipodi:sides="6"
+       sodipodi:cx="359.99979"
+       sodipodi:cy="107.62497"
+       sodipodi:r1="19.9998"
+       sodipodi:r2="17.320333"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 379.99959,107.62497 -9.9999,17.32033 h -19.9998 l -9.9999,-17.32033 9.9999,-17.320335 19.9998,0 z"
+       inkscape:label="#path285-7-0">
+      <title
+         id="title1623-3-6-6">Base 2</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       sodipodi:type="star"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="Territory_5"
+       sodipodi:sides="6"
+       sodipodi:cx="40.000198"
+       sodipodi:cy="427.62497"
+       sodipodi:r1="19.9998"
+       sodipodi:r2="17.320333"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 59.999998,427.62497 -9.9999,17.32033 H 30.000299 l -9.9999,-17.32033 9.9999,-17.32034 h 19.999799 z"
+       inkscape:label="#path285-7-0">
+      <title
+         id="title1623-3-4">Base 5</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       sodipodi:type="star"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="Territory_3"
+       sodipodi:sides="6"
+       sodipodi:cx="40.000198"
+       sodipodi:cy="267.62497"
+       sodipodi:r1="19.9998"
+       sodipodi:r2="17.320333"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 59.999998,267.62497 -9.9999,17.32033 H 30.000299 l -9.9999,-17.32033 9.9999,-17.32034 h 19.999799 z"
+       inkscape:label="#path285-7-0">
+      <title
+         id="title1623-3-4-6">Base 3</title>
+    </path>
+    <path
+       transform="translate(0,-17.62497)"
+       sodipodi:type="star"
+       style="fill:#cccccc;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="Territory_1"
+       sodipodi:sides="6"
+       sodipodi:cx="40.000198"
+       sodipodi:cy="107.62497"
+       sodipodi:r1="19.9998"
+       sodipodi:r2="17.320333"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 59.999998,107.62497 -9.9999,17.32033 H 30.000299 l -9.9999,-17.32033 9.9999,-17.320335 19.999799,0 z"
+       inkscape:label="#path285-7-0">
+      <title
+         id="title1623-3-4-6-4">Base 1</title>
+    </path>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Bonus_Links"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#dbe9f3;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Rubble1"
+       width="19.9998"
+       height="19.9998"
+       x="100"
+       y="47.625168"
+       inkscape:label="#rect1195-61" />
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#7391ba;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Rubble2"
+       width="19.9998"
+       height="19.9998"
+       x="280.00021"
+       y="147.62517"
+       inkscape:label="#rect1195-61" />
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#b8cce0;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Rubble3"
+       width="19.9998"
+       height="19.9998"
+       x="100"
+       y="207.62517"
+       inkscape:label="#rect1195-61" />
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#5175a7;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Rubble4"
+       width="19.9998"
+       height="19.9998"
+       x="280.00021"
+       y="307.62515"
+       inkscape:label="#rect1195-61" />
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#96c8eb;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Rubble5"
+       width="19.9998"
+       height="19.9998"
+       x="100"
+       y="367.62518"
+       inkscape:label="#rect1195-61" />
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#2e5894;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Rubble6"
+       width="19.9998"
+       height="19.9998"
+       x="280.00021"
+       y="467.62518"
+       inkscape:label="#rect1195-61" />
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#fe6862;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Base6"
+       width="19.9998"
+       height="19.9998"
+       x="370.00021"
+       y="447.62518"
+       inkscape:label="#rect1195-6-2-5" />
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#f86b86;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Base4"
+       width="19.9998"
+       height="19.9998"
+       x="370.00021"
+       y="287.62515"
+       inkscape:label="#rect1195-6-2-5" />
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#f58696;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Base2"
+       width="19.9998"
+       height="19.9998"
+       x="370"
+       y="127.62517"
+       inkscape:label="#rect1195-6-2-5" />
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#fca5af;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Base5"
+       width="19.9998"
+       height="19.9998"
+       x="10"
+       y="387.62497"
+       inkscape:label="#rect1195-6-2-5" />
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#e1a7a0;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Base3"
+       width="19.9998"
+       height="19.9998"
+       x="10"
+       y="227.62497"
+       inkscape:label="#rect1195-6-2-5" />
+    <rect
+       transform="translate(0,-17.62497)"
+       style="fill:#e1cccb;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_Base1"
+       width="19.9998"
+       height="19.9998"
+       x="9.9999924"
+       y="67.624969"
+       inkscape:label="#rect1195-6-2-5" />
+  </g>
+</svg>
